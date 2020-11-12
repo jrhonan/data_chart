@@ -1,0 +1,18 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: left;
+    font-family: Arial sans-serif;
+}
+
+p {
+    word-spacing: 5px;
+    font-size: 24px;
+    align-items: center;
+    font-family: Arial sans-serif;
+}
